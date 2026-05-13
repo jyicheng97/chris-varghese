@@ -24,7 +24,7 @@ I am a doctoral candidate at the University of Auckland, data scientist at Mayo 
   },
   {
     "date": "2021",
-    "role": "Selective",
+    "role": "Elective",
     "place": "General Surgery - Whangarei Hospital",
     "icon": "clinical"
   },
